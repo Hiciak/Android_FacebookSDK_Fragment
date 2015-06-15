@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MySocialNetworkTestApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="fb_login_fragment">fb_login_fragment</string>
+</resources>
